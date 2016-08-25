@@ -1,2 +1,2 @@
 # Polidata
-Application created using MATLAB for analyse election results
+Application created using MATLAB for analyzing election results
